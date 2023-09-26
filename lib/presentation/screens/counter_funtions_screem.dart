@@ -43,7 +43,7 @@ class _CounterFuntionScreen extends State<CounterFuntionScreen>{
             contador = 0;
             setState(() {});
           }),
-          const SizedBox(height: 10),
+          const SizedBox(height: 11),
           ButtonPersonalizado(icon:Icons.exposure_minus_1_outlined ,
               onPressed: () {
 
